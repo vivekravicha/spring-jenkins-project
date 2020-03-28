@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite_Unit_Test">
+ <test name="UnitTest" >
+    <classes>
+       <class name="net.kzn.unit.controllers.TestHomeController" />
+    </classes>
+  </test> 
+</suite>

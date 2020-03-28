@@ -1,4 +1,4 @@
-package com.accenture.lkm.config;
+package net.kzn.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
