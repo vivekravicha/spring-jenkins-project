@@ -18,7 +18,7 @@ public class TestHomePage {
 
 	@AfterTest
 	public void afterTest() {
-		driver.close();
+		driver.quit();
 	}
 
 	@Test
